@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-19T15:55:11Z" name="Suite" finished-at="2021-11-19T15:55:21Z" duration-ms="9403">
+    <groups>
+    </groups>
+    <test started-at="2021-11-19T15:55:11Z" name="Test" finished-at="2021-11-19T15:55:21Z" duration-ms="9403">
+      <class name="Day1.LoadAmazon">
+        <test-method signature="f()[pri:0, instance:Day1.LoadAmazon@490caf5f]" started-at="2021-11-19T15:55:11Z" name="f" finished-at="2021-11-19T15:55:21Z" duration-ms="9378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Day1.LoadAmazon -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
